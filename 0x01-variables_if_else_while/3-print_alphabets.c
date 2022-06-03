@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - is n positive and negative
+ *
  * Return: 0 if successful
  */
 int main(void)
