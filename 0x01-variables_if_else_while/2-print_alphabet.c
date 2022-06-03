@@ -12,5 +12,5 @@ for (lower = 'a'; lower <= 'z'; lower++);
 putchar (lower);
 }
 putchar ('\n');
-return (a);
+return (0);
 }
