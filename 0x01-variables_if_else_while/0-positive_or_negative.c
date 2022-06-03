@@ -4,7 +4,7 @@
 /**
  * main - is n positive and negative
  *
- * Return: 0 always (success)
+ * Return: 0 if successfull
  */
 int main(void)
 {
