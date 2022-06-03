@@ -16,11 +16,11 @@ printf("%d is positive\n", n);
 }
 else if (n < 0)
 {
-printf("%d is negaive\n", n);
+printf("%d is negative\n", n);
 }
 else
 {
-printf("%d0 is zero\n", n);
+printf("0 is zero\n", n);
 }
 return(0);
 }
