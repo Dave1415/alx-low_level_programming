@@ -1,0 +1,8 @@
+#include <studio.h>
+/**
+ *main - block entry
+ *Discription: print all letter except q and s
+ *return: 0 
+ */
+int main(void)
+  
