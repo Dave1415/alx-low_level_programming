@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  *main - block entry
- *Discription: print all letter except e and q
- *return: 0 Always for succes 
+ *Discription: print all letter excpet q and e.
+ *Return: 0 if successful 
  */
 int main(void)
 {
