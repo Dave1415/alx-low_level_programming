@@ -14,7 +14,7 @@ putchar(n % 10 + '0');
 if (n <= 8)
 {
 putchar(',');
-putchar(',');
+putchar(' ');
 }
 else
 {
