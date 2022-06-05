@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- *main - Block Entry 
+ *main - Block Entry
  *Discription: Print all the letters except q and e
+ *Return: 0 if succesfull
  */
 int main(void)
 {
