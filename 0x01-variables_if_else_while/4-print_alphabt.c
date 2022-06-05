@@ -2,7 +2,7 @@
 /**
  *main - block entry
  *Discription: print all letter except e and q
- *return: 0 
+ *return: 0 Always for succes 
  */
 int main(void)
 {
@@ -13,4 +13,3 @@ putchar(low);
 putchar ('\n');
 return (0);
 }
-  
