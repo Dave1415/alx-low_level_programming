@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  *main - block entry
  *Discription: print all letter except e and q
