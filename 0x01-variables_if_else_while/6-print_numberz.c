@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main: Block Entry
- *prints all single digit numbers of base 10 starting from 0
+ *Discription: prints all single digit numbers of base 10
  *Return: 0 if successful
  */
 int main(void)
