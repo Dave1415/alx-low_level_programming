@@ -12,11 +12,11 @@ com = 44;
 while (a <= 57)
 {
 b = a + 1;
-while ( b <= 57)
+while (b <= 57)
 {
 putchar(a);
-putchar (b);
- if (a != 56 || b != 57)
+putchar(b);
+if (a != 56 || b != 57)
 {
 putchar(com);
 putchar(32);
