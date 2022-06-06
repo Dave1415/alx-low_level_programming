@@ -16,7 +16,7 @@ while ( b <= 57)
 {
 putchar(a);
 putchar (b);
-if (a != 56 || b !57)
+ if (a != 56 || b != 57)
 {
 putchar(com);
 putchar(32);
@@ -25,6 +25,6 @@ b = b + 1;
 }
 a = a + 1;
 }
-putchar(\n);
-return ();
+putchar('\n');
+return (0);
 }
