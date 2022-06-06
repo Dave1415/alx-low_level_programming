@@ -1,0 +1,27 @@
+#include <stdio.h>
+/**
+ *main - Block Entry
+ *discription: prints all possible different combinations of two digit
+ *Return: 0 if successful
+ */
+int main(void)
+{
+  int a, b, com;
+  a = 48;
+  b = 0;
+  com = 44;
+ 
+  for (a = 0; a <= 9; a++)
+    for (b = 0; b <= 9; b++)
+      if (
+	   
+	  
+    
+       
+	 
+	 
+       
+	 
+	 
+	 
+    
