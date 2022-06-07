@@ -7,6 +7,5 @@
 int main(void)
 {
 write(1, "_putchar", 57);
-write("\n");
 return (0);
 }
