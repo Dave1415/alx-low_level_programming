@@ -1,11 +1,12 @@
 #include <stdio.h>
+#include "unistd"
 #include "main.h"
 /**
  *main - Block Entry
  *Discription: a program that prints _putchar, followed by a new line.
  *Return: 0 if successful
  */
-int main(void)
+int _putchar(void)
 {
 _putchar("_p");
 _putchar("_u");
