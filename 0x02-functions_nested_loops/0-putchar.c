@@ -1,5 +1,5 @@
-#include <unistd.h>
-#include "main.h "
+#include <stdio.h>
+#include "main.h"
 /**
  *main - write the character c to stdout
  *Discription: a program that prints _putchar, followed by a new line.
