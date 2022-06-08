@@ -6,18 +6,10 @@
  */
 void print_alphabet(void)
 {
-char ch;
-int n;
-n = 0;
-while (a < 10)
+char al;
+for (al = 'a'; al <= 'z'; al++)
 {
-ch = 'a';
-while (ch <= 'z')
-{
-_putchar(ch);
-ch++;
+_putchar(al);
 }
 _putchar('\n');
-n++;
-}
 }
