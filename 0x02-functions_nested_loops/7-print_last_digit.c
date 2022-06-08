@@ -1,4 +1,5 @@
-include "main.h"
+#include <limits.h>
+#include "main.h"
 /**
  *print_last_digit - prints the last digit of a number.
  *
@@ -7,18 +8,18 @@ include "main.h"
  */
 int print_last_digit(int n)
 {
-int last_digit;
+int ld;
 if (n < 0)
 {
-last_digit = (-1 * (n % 10));
-_putchar(last_digit + '0');
-return (last_digit);
+ld = (-1 * (n % 10));
+_putchar(ld + '0');
+return (ld);
 }
 else
 {
-last_digit = (n % 10);
-_putchar(last_digit + '0');
-return (last_digit);
+ld = (n % 10);
+_putchar(ld + '0');
+return (ld);
 }
 
 }
