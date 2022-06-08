@@ -4,7 +4,7 @@
  *
  * Return: 0 if successful
  */
-void print_times_table(void);
+int print_times_table(int n);
 {
 int a;
 int b;
