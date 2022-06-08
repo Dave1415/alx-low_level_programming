@@ -5,7 +5,7 @@
  *@c: the int to print
  *Return: 0 if successful 
  */
-int _isalpha(int c);
+int _isalpha(int c)
 {
 if ((c > 'a' && c < 'z') || (c > 'A' && c < 'Z'))
 {
