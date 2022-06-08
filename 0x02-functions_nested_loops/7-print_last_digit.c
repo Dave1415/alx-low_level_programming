@@ -5,7 +5,7 @@ include "main.h"
  *@n: The int to print
  * Return: 0 if successful
  */
-int print_last_digit(void)
+int print_last_digit(int n)
 {
 int last_digit;
 if (n < 0)
