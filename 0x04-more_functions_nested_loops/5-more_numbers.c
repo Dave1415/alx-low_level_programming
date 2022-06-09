@@ -14,6 +14,8 @@ for (i = 1; i <= 14; i++)
 {
 if (i / 10 > 0)
 _putchar((i / 10) + '0');
-}
+_putchar((i % 10) + '0');
+ }
 _putchar('\n');
 }
+ 
