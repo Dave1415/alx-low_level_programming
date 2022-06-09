@@ -1,1 +1,1 @@
-The numbers speak for themselves
+Numbers constitute the only universal language
