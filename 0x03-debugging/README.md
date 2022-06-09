@@ -1,1 +1,1 @@
-Leap year
+Numbers constitute the only universal language
