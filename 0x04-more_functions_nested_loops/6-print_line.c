@@ -6,9 +6,11 @@
 */
 void print_line(int n)
 {
-int times = n;  
-for (times = n; times > 0; times--)
+int a = 1;  
+while (a <= n)
 {
-_putchar('_');
+_putchar(95);
+a++;
+}
 _putchar('\n');
 }
