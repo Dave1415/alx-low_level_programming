@@ -1,1 +1,1 @@
-Numbers constitute the only universal language
+I feel like I am diagonally parked in a parallel universe
