@@ -3,7 +3,7 @@
  *print_square - print a square of a given size
  *@size: size to draw
  */
-int print_squar(int size)
+void print_squar(int size)
 int x, y;
 if (size > 0)
 {
