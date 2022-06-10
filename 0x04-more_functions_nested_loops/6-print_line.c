@@ -12,4 +12,3 @@ for (times = n; times > 0; times--)
 _putchar('_');
 _putchar('\n');
 }
-}
