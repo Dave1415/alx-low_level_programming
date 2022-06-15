@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *_puts - print a string
+ *_strlen - print a string
  *@str: string
  *
  *Return: the string
