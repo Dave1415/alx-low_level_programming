@@ -1,0 +1,12 @@
+#inclide "main.h"
+/**
+ *_puts : print a string
+ *@str: string
+ *
+ *Return: the string
+ */
+void _puts(char *str)
+{
+  int I = 0;
+  zwhe
+    
