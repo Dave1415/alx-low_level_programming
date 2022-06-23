@@ -22,7 +22,7 @@ return (1);
 }
 }
 /**
-*is_prime_number: prime 
+*is_prime_number - prime 
 *@n: integer param
 *Return: recursion
 */
