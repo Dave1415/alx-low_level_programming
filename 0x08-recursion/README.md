@@ -1,1 +1,1 @@
-She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
+Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
