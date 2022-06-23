@@ -2,9 +2,8 @@
 /**
  *_print_rev_recursion - function that prints a string in reverse
  *@s: string
- *
  *Retun: 1 if successful
- *on error, -1 is returned 
+ *on error, -1 is returned
 */
 void _print_rev_recursion(char *s)
 {
