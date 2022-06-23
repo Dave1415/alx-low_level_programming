@@ -24,7 +24,7 @@ if (*(s + n1) == *(s + n2))
 {
 if (n1 == n2 || n1 == n2 + 1)
 return (1);
-return (0 + comparator(s, n1 +1, n2 - 1));
+return (0 + comparator(s, n1 + 1, n2 - 1));
 }
 return (0);
 }
