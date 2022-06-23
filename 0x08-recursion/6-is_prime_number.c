@@ -5,8 +5,8 @@ int tmp_prime(int n, int i);
  *@n: integer parameter
  *@m: integer parameter
  *Return: boolean
+ */
 int divisors(int n, int m)
-*/
 {
 if (m % n == 0)
 {
