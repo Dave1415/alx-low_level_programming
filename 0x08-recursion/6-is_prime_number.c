@@ -14,7 +14,7 @@ return (0);
 }
 else if (m / 2 > n)
 {
-return (divisors (n + 2, m));
+return (divisors(n + 2, m));
 }
 else
 {
@@ -22,7 +22,7 @@ return (1);
 }
 }
 /**
-*is_prime_number (int n) 
+*is_prime_number: prime 
 *@n: integer param
 *Return: recursion
 */
