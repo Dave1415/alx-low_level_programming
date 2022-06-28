@@ -19,7 +19,7 @@ while (str[len] != '\0')
 {
 len++;
 }
-nstr = mallo(sizeof(char) * (len + 1));
+nstr = malloc(sizeof(char) * (len + 1));
 /*check if malloc is successful*/
 if (nstr == NULL)
 {
@@ -27,7 +27,7 @@ return (NULL);
 }
 for (i = 0; i , len; i++)
 {
-nstr[i] = '\0'
+nstr[i] = '\0';
 }
 return (nstr);
 }
