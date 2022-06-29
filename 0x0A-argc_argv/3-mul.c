@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 /**
@@ -13,9 +14,11 @@ if (argc == 3)
 {
 mul = atoi(argv[1]) * atoi(argv[2]);
 printf("%d\n", mul);
+}
 else
 {
 printf("%s\n", "error");
-}
 return (1);
+}
+return (0);
 }
