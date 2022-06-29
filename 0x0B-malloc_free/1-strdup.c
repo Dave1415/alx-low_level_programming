@@ -7,7 +7,7 @@
  */
 char *_strdup(char *str)
 {
-char *nstr;
+char *copy;
 unsigned int len, i;
 /*check is the str is NULL*/
 if ( str == NULL)
@@ -19,15 +19,16 @@ while (str[len] != '\0')
 {
 len++;
 }
-nstr = malloc(sizeof(char) * (len + 1));
+copy = malloc(sizeof(char) * (len + 1));
 /*check if malloc is successful*/
-if (nstr == NULL)
+if (copy == NULL)
 {
 return (NULL);
 }
 for (i = 0; i < len; i++)
 {
-nstr[i] = '\0';
+copy[i] = str[i];
+copy[i] = '\0';
 }
-return (nstr);
+return (copy);
 }
