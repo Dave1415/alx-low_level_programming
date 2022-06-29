@@ -17,7 +17,7 @@ printf("%d\n", mul);
 }
 else
 {
-printf("%s\n", "error");
+printf("error\n");
 return (1);
 }
 return (0);
