@@ -1,1 +1,1 @@
-Float like a butterfly, sting like a bee
+He who is not courageous enough to take risks will accomplish nothing in life
