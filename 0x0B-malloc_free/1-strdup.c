@@ -25,7 +25,7 @@ if (nstr == NULL)
 {
 return (NULL);
 }
- for (i = 0; i < len; i++)
+for (i = 0; i < len; i++)
 {
 nstr[i] = '\0';
 }
