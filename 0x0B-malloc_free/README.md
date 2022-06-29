@@ -1,1 +1,1 @@
-He who is not courageous enough to take risks will accomplish nothing in life
+t's not bragging if you can back it up
