@@ -25,7 +25,7 @@ free(tab);
 return (NULL);
 }
 for (j = 0; j < width; j++)
-tab[][j] = 0;
+tab[i][j] = 0;
 }
 }
 return (tab);
