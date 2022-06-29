@@ -1,4 +1,4 @@
- #include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 /**
  *main - print the number of argument
@@ -17,6 +17,5 @@ else
 {
 printf("%s\n", "error");
 }
-return (0);
+return (1);
 }
- 
