@@ -1,1 +1,1 @@
-pi
+Function-like macro
