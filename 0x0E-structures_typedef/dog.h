@@ -1,7 +1,7 @@
 #ifndef pet
 #define pet
 /**
- *struct - define a new type of struct
+ *struct dog - define a new type of struct
  *@name: name of the dog
  *@dog: age of the dog
  *@owner: owner of the dog
