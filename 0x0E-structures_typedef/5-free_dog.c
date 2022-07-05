@@ -2,7 +2,8 @@
 #include "dog.h"
 /**
  *free_dog - free the dog
- *@d: pointer to structure 
+ *@d: pointer to structure
+ *
  */
 void free_dog(dog_t *d)
 {
