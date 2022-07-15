@@ -21,7 +21,7 @@ else
 printf("%s\n", h->str);
 }
 h = h->next;
-node++;
+nodes++;
 }
-return (node);
+return (nodes);
 }
