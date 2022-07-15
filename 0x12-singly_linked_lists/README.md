@@ -1,1 +1,1 @@
-prints all the elements of a list_t list.
+List length
